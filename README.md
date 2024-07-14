@@ -33,6 +33,7 @@ Este proyecto fue desarrollado como parte del challenge de un curso. La aplicaci
 
 ## Estructura del Proyecto
 
+``bash
 alura-geek/
 ├── index.html
 ├── css/
@@ -41,7 +42,7 @@ alura-geek/
 │ └── main.js
 └── img/
 └── (imágenes del proyecto)
-
+```
 
 ## Contribución
 
