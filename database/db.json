@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "God Super Saiyan Goku",
+            "price": 319,
+            "sku": "2520500",
+            "image": "https://shop.bandaicollectors.com.mx/cdn/shop/files/2520500-1_1800x1800.jpg?v=1699995926"
+        },
+        {
+            "id": "2",
+            "name": "God Super Saiyan Vegeta",
+            "price": 309,
+            "sku": "1720043",
+            "image": "https://shop.bandaicollectors.com.mx/cdn/shop/files/2520501-1_1800x1800.jpg?v=1699995193"
+        },
+        {
+            "id": "3",
+            "name": "Playera Dragon Ball Z",
+            "price": 449,
+            "sku": "40720",
+            "image": "https://www.quiubolee.com/cdn/shop/files/13_1196e666-a4f1-4714-833d-477bffab7241_1200x1200.jpg?v=1720043229"
+        },
+        {
+            "id": "4",
+            "name": "Playera Vegeta Saiyajin",
+            "price": 350,
+            "sku": "168615",
+            "image": "https://www.quiubolee.com/cdn/shop/files/6aaa_7dd9296d-25ef-422a-94f2-f06883b63cac_1200x1200.jpg?v=1686150889"
+        },
+        {
+            "id": "5",
+            "name": "Vaso Dragon Ball",
+            "price": 249,
+            "sku": "750303",
+            "image": "https://geekindustry.com.mx/wp-content/uploads/2024/04/TT-DB-01_01.webp"
+        },
+        {
+            "id": "6",
+            "name": "Mouse Pad Goku ",
+            "price": 139,
+            "sku": "3040908",
+            "image": "https://geekindustry.com.mx/wp-content/uploads/2024/01/7503040908006_2.webp"
+        },
+        {
+            "id": "7",
+            "name": "Reloj Swatch Dragon Ball",
+            "price": 2799,
+            "sku": "1125705",
+            "image": "https://ss376.liverpool.com.mx/xl/1125705754_1p.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Control Xbox Dragon Ball",
+            "price": 1989,
+            "sku": "2520500",
+            "image": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/c580efe0-f9c6-4a16-bcc0-0fe7edf2f7de.c09a479a6a4bd316401bc4ac0f941dc1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+        },
+        {
+            "id": "9",
+            "name": "Vegeta",
+            "price": 899,
+            "sku": "19830",
+            "image": "https://shop.bandaicollectors.com.mx/cdn/shop/files/19830-1_1800x1800.jpg?v=1699935059"
+        },
+        {
+            "id": "10",
+            "name": "Kid Boo)",
+            "price": "153",
+            "sku": "",
+            "image": "https://mundogeekpro.com/wp-content/uploads/2024/01/yom-2.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Consola Data Frog SF2000",
+            "price": "397",
+            "sku": "",
+            "image": "https://mundogeekpro.com/wp-content/uploads/2023/09/s-l1600.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Batman 1341",
+            "price": "389",
+            "sku": "",
+            "image": "https://mundogeekpro.com/wp-content/uploads/2024/01/D_NQ_NP_816792-MLU73580945112_122023-O.webp"
+        }
+    ]
+}
