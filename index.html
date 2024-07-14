@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura Geek</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link href="/styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <main class="main">
+        <header class="header">
+            <a class="header_a" href="/">
+                <img class="header_img" src="/assets/LogoAluraGeek.png" />
+            </a>
+            <div class="toast"></div>
+        </header>
+        <section class="section">
+            <div class="section_products">
+                <h2 class="title">Mis productos<span class="quantity"></span></h2>
+                <div class="products"></div>
+            </div>
+            <div class="addproducts">
+                <h2 class="title">Agregar producto</h2>
+                <form class="form">
+                    <fieldset class="fieldset">
+                        <label class="fieldset_label">Nombre</label>
+                        <input type="text" class="fieldset_input name" name="name" />
+                        <label class="fieldset_error error_name"></label>
+                    </fieldset>
+                    <fieldset class="fieldset">
+                        <label class="fieldset_label">Precio</label>
+                        <input type="number" step="0.01" class="fieldset_input price" name="price" />
+                        <label class="fieldset_error error_price"></label>
+                    </fieldset>
+                    <fieldset class="fieldset">
+                        <label class="fieldset_label">Imagen</label>
+                        <input type="text" class="fieldset_input image" name="image" />
+                        <label class="fieldset_error error_image"></label>
+                    </fieldset>
+                    <fieldset class="buttons">
+                        <button class="button send">Enviar</button>
+                        <button type="reset" class="button button_secondary clear">Limpiar</button>
+                    </fieldset>
+                </form>
+            </div>
+        </section>
+        <footer class="footer">
+            <img class="footer_img" src="/assets/LogoAluraGeek.png" />
+            <span class="footer_name">Desarrollador por Alejandro Garcia</span>
+            <span class="footer_alura">ALURA LATAM 2024</span>
+        </footer>
+    </main>
+    <script type="module" src="/js/controllers/main.js"> </script>
+
+</body>
+
+</html>
