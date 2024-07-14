@@ -1,5 +1,7 @@
 # Alura Geek
 
+![Imagen del Proyecto](https://raw.githubusercontent.com/AletzMan/ImagesStorage/main/Screenshot%202024-07-14%20142652.webp)
+
 **Alura Geek** es un proyecto de e-commerce para fanáticos de la cultura geek. Los usuarios pueden explorar y comprar productos relacionados con videojuegos, cómics, películas y series.
 
 ## Descripción
@@ -40,7 +42,7 @@ alura-geek/
 │ └── styles.css
 ├── js/
 │ └── main.js
-└── img/
+└── asests/
 └── (imágenes del proyecto)
 ```
 
@@ -55,7 +57,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT
 
 ## Contacto
 
